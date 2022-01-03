@@ -6,5 +6,4 @@ It runs on a Jupyter Notebook and requires `opencv` and `numpy`
 
 Comments welcome, have fun programming!
 
-
 ![plot](./images/output.png)
